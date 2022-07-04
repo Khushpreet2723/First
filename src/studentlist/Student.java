@@ -1,5 +1,5 @@
 
-package studentlist;
+package studentlist;;;
 
 /**
  *This class represents a student in our application
